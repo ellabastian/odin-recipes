@@ -1,0 +1,1 @@
+This is the first exercise of the odin project. I had to create a basic recipes page and style it.
