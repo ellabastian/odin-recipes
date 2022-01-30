@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jost:wght@600&family=Maven+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+.centre{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+*{
+    background-color: #48A9A6;
+}
+
+h1{
+    color: #820933;
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+}
+
+h3{
+    color: #820933;
+    font-family: 'Archivo Black', sans-serif;
+
+}
+
+p, ul, ol{
+    color: #181D27;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}

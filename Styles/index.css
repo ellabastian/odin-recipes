@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@600&family=Maven+Pro&display=swap');
+*{
+    background-color: #E4DFDA;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    color: #48A9A6;
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+}
+
+list{
+    font-size: 20px
+    font-family: 'Maven Pro', sans-serif;
+}
